@@ -1,0 +1,45 @@
+Question:
+What is a software application for accessing information on the world wide web?
+Options:
+1. Browser
+2. Server
+3. Laptop
+Answer:
+1
+
+Question:
+What is a computer that runs websites?
+Options:
+1. Web Browser
+2. Domain
+3. Server
+Answer:
+3
+
+Question:
+Is WWW an electronic communications network that connects computer networks and organization computer facilities around the world?
+Options:
+1. True
+2. False
+3. Not known
+Answer:
+1
+
+Question:
+Which of the following is used to write C++ programs?
+Options:
+1. Compiler
+2. Painter
+3. Text Editor
+Answer:
+1
+
+Question:
+What does CPU stand for?
+Options:
+1. Central Processing Unit
+2. Computer Personal Unit
+3. Central Processor Unit
+Answer:
+1
+

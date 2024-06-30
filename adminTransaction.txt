@@ -1,0 +1,4 @@
+instructorID,timestamp,salary
+kashyap@gmail.com,2024-05-29 07:26:37,50000
+angelina@gmail.com,2024-05-29 14:27:19,52000
+ryan@gmail.com,2024-05-31 17:58:38,53000

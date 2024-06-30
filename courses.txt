@@ -1,0 +1,11 @@
+courseID,type,topic,description,price,enrollmentLimit,instructorID
+101,LiveMentor,DBMS,Database Management Systems Fundamentals,7199.7,30,kashyap@gmail.com
+102,LiveMentor,OS,Operating Systems Fundamentals,5529.37,25,jane@gmail.com
+103,Predefined,Basics of Programming,Introduction to Programming Logic and Syntax in C Language,3491.52,50,sarah@gmail.com
+104,Predefined,OOPS & ADS,Object-Oriented Programming Principles,2822.02,40,ryan@gmail.com
+105,Predefined,IT Essentials,Essential IT Concepts and Skills,2793.22,40,kashyap@gmail.com
+106,Predefined,DSA,Data Structures and Algorithms Fundamentals,4146.64,35,ryan@gmail.com
+107,LiveMentor,Network Security,Principles of Network Security,7937.6,30,angelina@gmail.com
+108,LiveMentor,Web Development,Modern Web Development Technologies,9503.66,20,jane@gmail.com
+109,Predefined,Software Engineering,Software Engineering Principles and Practices,6110.72,45,sarah@gmail.com
+110,Predefined,Cloud Computing,Introduction to Cloud Computing Technologies,6911.71,35,angelina@gmail.com

@@ -1,0 +1,6 @@
+instructorID,instructorType,name,password,salary
+kashyap@gmail.com,courseCreator,Kashyap,pass123,50000
+jane@gmail.com,expert,Jane Smith,pass456,55000
+sarah@gmail.com,courseCreator,Sarah Brown,pass789,48000
+angelina@gmail.com,expert,Angelina,pass012,52000
+ryan@gmail.com,courseCreator,Ryan Larsen,pass345,53000

@@ -1,0 +1,4 @@
+courseID,email,timestamp,coursePrice
+103,vedha@gmail.com,2024-05-29 07:27:26,49.99
+101,vedha@gmail.com,2024-05-30 13:27:28,7199.7
+105,vedha@gmail.com,2024-05-30 15:36:24,2879.61

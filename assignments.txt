@@ -1,0 +1,2 @@
+courseID,assignmentID,description,dueDate
+6683168,101,Draw ER Diagrams,Draw ER diagram for any 4 systems,01-06-2024,40

@@ -1,0 +1,45 @@
+Question:
+What does SQL stand for?
+Options:
+1. Structured Query Language
+2. Simple Query Language
+3. Strong Query Language
+Answer:
+1
+
+Question:
+Which of the following is a database management system?
+Options:
+1. MySQL
+2. HTML
+3. JSON
+Answer:
+1
+
+Question:
+What is a primary key?
+Options:
+1. A unique identifier for a record
+2. A foreign key
+3. An index
+Answer:
+1
+
+Question:
+Which command is used to update data in a database?
+Options:
+1. UPDATE
+2. INSERT
+3. SELECT
+Answer:
+1
+
+Question:
+What is normalization?
+Options:
+1. Organizing data to reduce redundancy
+2. Creating new databases
+3. Backing up data
+Answer:
+1
+
